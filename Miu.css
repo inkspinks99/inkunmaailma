@@ -1,6 +1,6 @@
 #hello:hover {
   letter-spacing: 0.8em;
-  background-color: #B0C4DE;
+  background-color: #708090;
 }
 
 #hello {
@@ -11,7 +11,7 @@ button {
   width: 30%;
   padding: 1.5em auto;
   margin: 1em auto;
-  background-color: #708090;
+  background-color:#B0C4DE ;
   border: none;
   border-radius: 3px;
   text-transform: uppercase;
