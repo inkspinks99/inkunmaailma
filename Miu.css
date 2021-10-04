@@ -27,7 +27,7 @@ html, body {
 
 .pic-ctn {
   width: 100vw;
-  height: 200px;
+  height: 100px;
 }
 
 @keyframes display {
