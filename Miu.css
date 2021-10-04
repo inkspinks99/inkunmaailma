@@ -26,8 +26,8 @@ html, body {
 }
 
 .pic-ctn {
-  width: 20vw;
-  height: 5px;
+  width: 50vw;
+  height: 50px;
 }
 
 @keyframes display {
@@ -44,26 +44,26 @@ html, body {
     opacity: 1;
   }
   30% {
-    transform: translateX(-5px);
+    transform: translateX(-25px);
     opacity: 0;
   }
   100% {
-    transform: translateX(-5px);
+    transform: translateX(-25px);
     opacity: 0;
   }
 }
 
 .pic-ctn {
   position: relative;
-  width: 5vw;
-  height: 5px;
-  margin-top: 5vh;
+  width: 83vw;
+  height: 1px;
+  margin-top: 6vh;
 }
 
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: calc(5% - 5px);
+  left: calc(50% - 50px);
   opacity: 0;
   animation: display 10s infinite;
 }
