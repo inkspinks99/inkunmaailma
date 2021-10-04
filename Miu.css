@@ -20,6 +20,14 @@ button {
   transition: all 0.2s cubic-bezier(.4,0,.2,1);
  
 }
+
+p {
+  color: white;
+  background-color: #B0C4DE;
+  text-align: center;
+  font-size: 20px;
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -57,7 +65,7 @@ html, body {
   position: relative;
   width: 83vw;
   height: 1px;
-  margin-top: 6vh;
+  margin-top: 5vh;
 }
 
 .pic-ctn > img {
