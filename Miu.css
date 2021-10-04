@@ -55,8 +55,8 @@ html, body {
 
 .pic-ctn {
   position: relative;
-  width: 100vw;
-  height: 300px;
+  width: 50vw;
+  height: 150px;
   margin-top: 15vh;
 }
 
