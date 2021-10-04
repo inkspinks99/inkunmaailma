@@ -32,7 +32,7 @@ html, body {
 
 @keyframes display {
   0% {
-    transform: translateX(200px);
+    transform: translateX(50px);
     opacity: 0;
   }
   10% {
